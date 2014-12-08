@@ -1,0 +1,20 @@
+{
+  "Name": "homebasedcatererApp on dev / santhi.narayanankutty@sjsu.edu",
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "santhi.narayanankutty@sjsu.edu",
+      "OrgId": "eee22ece-0f2d-4ea0-9f61-b8370da49fbd",
+      "Space": "dev",
+      "SpaceId": "8efe50d8-61c9-4253-9594-6dfd321f9f61"
+    },
+    "Name": "homebasedcatererApp",
+    "AppId": "4828b520-013b-4b68-b8a9-0ee469fa4bfa",
+    "Timeout": 60
+  },
+  "Url": "http://homebasedcatererApp.mybluemix.net",
+  "ManageUrl": "https://console.ng.bluemix.net#/resources/appGuid=4828b520-013b-4b68-b8a9-0ee469fa4bfa&orgGuid=eee22ece-0f2d-4ea0-9f61-b8370da49fbd&spaceGuid=8efe50d8-61c9-4253-9594-6dfd321f9f61",
+  "Path": "",
+  "Type": "Cloud Foundry"
+}

@@ -1,0 +1,12 @@
+---
+applications:
+- command: node app.js
+  disk_quota: 1024M
+  domain: mybluemix.net
+  host: homebasedcatererApp
+  instances: 1
+  memory: 512M
+  name: homebasedcatererApp
+  path: .
+  services:
+  - SQL Database-xl
